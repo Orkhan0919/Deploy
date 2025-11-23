@@ -33,7 +33,7 @@ body {
 
 .bckimg
 {
-    background-image: url('/assets/Images/img4.avif');
+    background-image: url('../Images/4.avif');
     background-size: cover;
     background-position: center;
     height: 700px;
